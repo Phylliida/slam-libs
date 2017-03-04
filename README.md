@@ -8,3 +8,5 @@ The main ones that are missing are the boost libraries, boost headers, and some 
 If you have issues using these, make sure you are building for Release mode in 64 bit. You can also try going to C/C++ Tab -> Code Generation and change Runtime Library to Multi-threaded (/MT).
 
 I tried to attach the licenses and readmes when I could find them but make sure you look them up if you want to use these in production. I don't claim any ownership of any of these libraries and feel free to ask me to take them down if you'd like.
+
+This repo is about 337 MB large. If you'd prefer I have a .zip version [here](https://drive.google.com/file/d/0BzfmodsY02j7VFMtejFldTJqSGs/view?usp=sharing) that is only about 83 MB.
