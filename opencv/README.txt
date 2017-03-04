@@ -1,0 +1,1 @@
+These will mostly work for visual studio 2014 too
